@@ -23,3 +23,12 @@ Iot 개발자 임베디드 시스템 학습 리포지토리
 - 라즈베리 안에서 첫 코드 실행!!
 
   ![실행](https://raw.githubusercontent.com/JEONGWOO0705/embedded_system_2024/main/image/img001.jpg)
+
+    - pi@raspi:~/Work/C $ gcc -o test test.c
+        - test.c를 컴파일 하여 test라는 실행파일을 만들어라
+    - pi@raspi:~/Work/C $ ./test
+        - test를 실행해라
+
+       
+
+
