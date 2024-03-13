@@ -17,4 +17,9 @@ Iot 개발자 임베디드 시스템 학습 리포지토리
     - ls -l: 디렉토리의 생성 일자까지 확인 가능
     - mkdir : 디렉토리 생성    ex) mkdir Work   --> Work라는 디렉토리 생성
     - rm -fr : 디렉토리 삭제   ex) rm -fr Work  --> Work라는 디렉토리 삭제
-    - cd : change directory
+    - cd : change 디렉토리
+
+## 2일차
+- 라즈베리 안에서 첫 코드 실행!!
+
+  ![실행](https://raw.githubusercontent.com/JEONGWOO0705/embedded_system_2024/main/image/img001.jpg)
