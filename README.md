@@ -2,6 +2,16 @@
 Iot 개발자 임베디드 시스템 학습 리포지토리
 
 ## 1일차
+- 라즈베리 파이를 위한 사전 인터넷 설정
+    - 공유기 ip주소 할당하기
+
+     ![실행](https://raw.githubusercontent.com/JEONGWOO0705/embedded_system_2024/main/image/img003.jpg)
+
+    - 할당한 ip주소를 통해 포트포워드 설정하기
+
+     ![실행](https://raw.githubusercontent.com/JEONGWOO0705/embedded_system_2024/main/image/img002.jpg)
+
+
 - 라즈베리 파이 환경 설정
     - sudo apt update
     - sudo apt upgrade -y
@@ -19,6 +29,8 @@ Iot 개발자 임베디드 시스템 학습 리포지토리
     - rm -fr : 디렉토리 삭제   ex) rm -fr Work  --> Work라는 디렉토리 삭제
     - cd : change 디렉토리
 
+
+
 ## 2일차
 - 라즈베리 안에서 첫 코드 실행!!
 
@@ -28,6 +40,14 @@ Iot 개발자 임베디드 시스템 학습 리포지토리
         - test.c를 컴파일 하여 test라는 실행파일을 만들어라
     - pi@raspi:~/Work/C $ ./test
         - test를 실행해라
+
+## 3일차
+- C 언어 전체 복습 빠르게 하기!!
+    - 별찍기
+    - 노드 설정하기
+        - 노드 전위 삽입
+        - 노드 후위 삽입
+        - 노드 전체 출력
 
        
 
