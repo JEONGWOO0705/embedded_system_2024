@@ -1,2 +1,6 @@
-﻿  const.c
+﻿  node.c
+C:\Sources\embedded_system_2024\day03\day03\node.c(59,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'NODE *'입니다.
+C:\Sources\embedded_system_2024\day03\day03\node.c(59,12): warning C4313: 'printf': 서식 문자열의 '%d'이(가) NODE *' 형식의 인수 1과(와) 충돌합니다.
+C:\Sources\embedded_system_2024\day03\day03\node.c(59,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'node *'입니다.
+C:\Sources\embedded_system_2024\day03\day03\node.c(59,12): warning C4313: 'printf': 서식 문자열의 '%d'이(가) node *' 형식의 인수 2과(와) 충돌합니다.
   day03.vcxproj -> C:\Sources\embedded_system_2024\day03\day03\x64\Debug\day03.exe

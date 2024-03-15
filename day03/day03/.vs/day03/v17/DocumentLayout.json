@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Sources\\embedded_system_2024\\day03\\day03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F26EAA4-BD1A-4FDD-B8F8-C0E7675B3B39}|day03.vcxproj|C:\\Sources\\embedded_system_2024\\day03\\day03\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7F26EAA4-BD1A-4FDD-B8F8-C0E7675B3B39}|day03.vcxproj|solutionrelative:test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7F26EAA4-BD1A-4FDD-B8F8-C0E7675B3B39}|day03.vcxproj|C:\\Sources\\embedded_system_2024\\day03\\day03\\node.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F26EAA4-BD1A-4FDD-B8F8-C0E7675B3B39}|day03.vcxproj|solutionrelative:node.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F26EAA4-BD1A-4FDD-B8F8-C0E7675B3B39}|day03.vcxproj|C:\\Sources\\embedded_system_2024\\day03\\day03\\const.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7F26EAA4-BD1A-4FDD-B8F8-C0E7675B3B39}|day03.vcxproj|solutionrelative:const.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F26EAA4-BD1A-4FDD-B8F8-C0E7675B3B39}|day03.vcxproj|C:\\Sources\\embedded_system_2024\\day03\\day03\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F26EAA4-BD1A-4FDD-B8F8-C0E7675B3B39}|day03.vcxproj|solutionrelative:test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "test.c",
               "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day03\\day03\\test.c",
               "RelativeDocumentMoniker": "test.c",
@@ -30,7 +34,19 @@
               "RelativeToolTip": "test.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-15T07:07:29.509Z",
+              "WhenOpened": "2024-03-15T07:07:29.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "node.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day03\\day03\\node.c",
+              "RelativeDocumentMoniker": "node.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\day03\\day03\\node.c",
+              "RelativeToolTip": "node.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-15T07:12:02.4Z",
               "EditorCaption": ""
             },
             {
