@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sources\\embedded_system_2024\\day04\\project04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA87D27F-3845-4C85-9FE3-EBDE12923647}|project04.vcxproj|C:\\Sources\\embedded_system_2024\\day04\\project04\\stack01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA87D27F-3845-4C85-9FE3-EBDE12923647}|project04.vcxproj|solutionrelative:stack01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA87D27F-3845-4C85-9FE3-EBDE12923647}|project04.vcxproj|C:\\Sources\\embedded_system_2024\\day04\\project04\\stack02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA87D27F-3845-4C85-9FE3-EBDE12923647}|project04.vcxproj|solutionrelative:stack02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stack02.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day04\\project04\\stack02.c",
+              "RelativeDocumentMoniker": "stack02.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\day04\\project04\\stack02.c",
+              "RelativeToolTip": "stack02.c",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-18T03:28:48.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stack01.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day04\\project04\\stack01.c",
+              "RelativeDocumentMoniker": "stack01.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\day04\\project04\\stack01.c",
+              "RelativeToolTip": "stack01.c",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-18T01:10:32.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

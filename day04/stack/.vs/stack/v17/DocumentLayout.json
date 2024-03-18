@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sources\\embedded_system_2024\\day04\\stack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24187A-52D2-4A2F-9CEF-D578E1AA07F3}|stack.vcxproj|C:\\Sources\\embedded_system_2024\\day04\\stack\\q_test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A24187A-52D2-4A2F-9CEF-D578E1AA07F3}|stack.vcxproj|solutionrelative:q_test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24187A-52D2-4A2F-9CEF-D578E1AA07F3}|stack.vcxproj|C:\\Sources\\embedded_system_2024\\day04\\stack\\queue02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A24187A-52D2-4A2F-9CEF-D578E1AA07F3}|stack.vcxproj|solutionrelative:queue02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24187A-52D2-4A2F-9CEF-D578E1AA07F3}|stack.vcxproj|C:\\Sources\\embedded_system_2024\\day04\\stack\\queue01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A24187A-52D2-4A2F-9CEF-D578E1AA07F3}|stack.vcxproj|solutionrelative:queue01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24187A-52D2-4A2F-9CEF-D578E1AA07F3}|stack.vcxproj|C:\\Sources\\embedded_system_2024\\day04\\stack\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A24187A-52D2-4A2F-9CEF-D578E1AA07F3}|stack.vcxproj|solutionrelative:test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24187A-52D2-4A2F-9CEF-D578E1AA07F3}|stack.vcxproj|C:\\Sources\\embedded_system_2024\\day04\\stack\\stack02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A24187A-52D2-4A2F-9CEF-D578E1AA07F3}|stack.vcxproj|solutionrelative:stack02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "q_test.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day04\\stack\\q_test.c",
+              "RelativeDocumentMoniker": "q_test.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\day04\\stack\\q_test.c",
+              "RelativeToolTip": "q_test.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-18T08:07:15.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "queue02.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day04\\stack\\queue02.c",
+              "RelativeDocumentMoniker": "queue02.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\day04\\stack\\queue02.c",
+              "RelativeToolTip": "queue02.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-18T07:49:50.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "queue01.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day04\\stack\\queue01.c",
+              "RelativeDocumentMoniker": "queue01.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\day04\\stack\\queue01.c",
+              "RelativeToolTip": "queue01.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-18T07:21:02.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day04\\stack\\test.c",
+              "RelativeDocumentMoniker": "test.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\day04\\stack\\test.c",
+              "RelativeToolTip": "test.c",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-18T06:52:18.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "stack02.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day04\\stack\\stack02.c",
+              "RelativeDocumentMoniker": "stack02.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\day04\\stack\\stack02.c",
+              "RelativeToolTip": "stack02.c",
+              "ViewState": "AQIAABwAAAAAAAAAAAAiwDgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-18T03:30:00.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
