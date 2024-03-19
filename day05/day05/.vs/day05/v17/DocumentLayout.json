@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sources\\embedded_system_2024\\day05\\day05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA71DEC-CE3F-4F18-A99E-C04552C22336}|day05.vcxproj|C:\\Sources\\embedded_system_2024\\day05\\day05\\day05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AA71DEC-CE3F-4F18-A99E-C04552C22336}|day05.vcxproj|solutionrelative:day05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "day05.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day05\\day05\\day05.c",
+              "RelativeDocumentMoniker": "day05.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\day05\\day05\\day05.c",
+              "RelativeToolTip": "day05.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-19T00:33:42.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

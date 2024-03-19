@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "q_test.c",
               "ToolTip": "C:\\Sources\\embedded_system_2024\\day04\\stack\\q_test.c",
               "RelativeToolTip": "q_test.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-18T08:07:15.468Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "queue02.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-18T07:49:50.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T07:49:50.057Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "queue01.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAiwCAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-18T07:21:02.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T07:21:02.056Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "test.c",
               "ViewState": "AQIAABsAAAAAAAAAAAAiwC0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-18T06:52:18.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T06:52:18.246Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "stack02.c",
               "ViewState": "AQIAABwAAAAAAAAAAAAiwDgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-18T03:30:00.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T03:30:00.769Z"
             }
           ]
         }
