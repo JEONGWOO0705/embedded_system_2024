@@ -18,6 +18,7 @@ Iot 개발자 임베디드 시스템 학습 리포지토리
     - sudo apt update
     - sudo apt upgrade -y
     - clear --->> 위에 3개 주기적으로 하기!!
+    - sudo nano /etc/nanorc 를 통해 환경설정
 - 환경 설정 
     - 편집기 : 코드 작업할때 사용 하는 프로그램(nano)
 - 기본명령어 (C)
