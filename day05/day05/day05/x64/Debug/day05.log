@@ -1,6 +1,6 @@
 ﻿  inputf.c
+  main.c
 C:\Sources\embedded_system_2024\day05\day05\inputf.c(8,8): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  코드를 생성하고 있습니다...
 C:\Sources\embedded_system_2024\day05\day05\inputf.c(10,13): warning C4098: 'input': 'void' 함수에서 값을 반환하고 있습니다.
 C:\Sources\embedded_system_2024\day05\day05\inputf.c(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  main.c
-  코드를 생성하고 있습니다...
