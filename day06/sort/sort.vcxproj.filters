@@ -15,7 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sort.cpp">
+    <ClCompile Include="sort001.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="low_open.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="low_read.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file03.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
