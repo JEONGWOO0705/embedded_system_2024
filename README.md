@@ -31,7 +31,10 @@ Iot 개발자 임베디드 시스템 학습 리포지토리
     - mkdir : 디렉토리 생성    ex) mkdir Work   --> Work라는 디렉토리 생성
     - rm -fr : 디렉토리 삭제   ex) rm -fr Work  --> Work라는 디렉토리 삭제
     - cd : change 디렉토리
-
+    - 리눅스 c++
+        - pico 파일이름.cpp -> 생성
+        - g++ 파일이름.cpp -o 실행파일이름 -> 실행 전 실행파일 이름 저장
+        - 실행파일 이름
 
 
 ## 2일차

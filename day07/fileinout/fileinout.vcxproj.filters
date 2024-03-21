@@ -15,7 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="fileinout.cpp">
+    <ClCompile Include="file05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="project01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="project01_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ID.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="project02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Sources\\embedded_system_2024\\day06\\sort\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|C:\\Sources\\embedded_system_2024\\day06\\sort\\low_open.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|solutionrelative:low_open.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|C:\\Sources\\embedded_system_2024\\day06\\sort\\low_read.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|solutionrelative:low_read.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|C:\\Sources\\embedded_system_2024\\day06\\sort\\file03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -19,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|solutionrelative:file01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|C:\\Sources\\embedded_system_2024\\day06\\sort\\low_read.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|solutionrelative:low_read.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|C:\\Sources\\embedded_system_2024\\day06\\sort\\sort001.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|solutionrelative:sort001.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|C:\\Sources\\embedded_system_2024\\day06\\sort\\low_open.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|solutionrelative:low_open.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "low_read.c",
               "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day06\\sort\\low_read.c",
               "RelativeDocumentMoniker": "low_read.c",
@@ -59,11 +59,12 @@
               "RelativeToolTip": "low_read.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-20T06:08:21.783Z"
+              "WhenOpened": "2024-03-20T06:08:21.783Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "low_open.c",
               "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day06\\sort\\low_open.c",
               "RelativeDocumentMoniker": "low_open.c",
@@ -97,11 +98,12 @@
               "RelativeToolTip": "file01.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-20T04:52:18.515Z"
+              "WhenOpened": "2024-03-20T04:52:18.515Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "sort001.c",
               "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day06\\sort\\sort001.c",
               "RelativeDocumentMoniker": "sort001.c",
@@ -109,7 +111,8 @@
               "RelativeToolTip": "sort001.c",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-20T03:31:43.236Z"
+              "WhenOpened": "2024-03-20T03:31:43.236Z",
+              "EditorCaption": ""
             }
           ]
         }
