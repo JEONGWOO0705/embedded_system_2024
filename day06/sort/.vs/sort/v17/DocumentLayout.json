@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Sources\\embedded_system_2024\\day06\\sort\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|C:\\Sources\\embedded_system_2024\\day06\\sort\\low_open.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|solutionrelative:low_open.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|C:\\Sources\\embedded_system_2024\\day06\\sort\\file03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|solutionrelative:file03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|C:\\Sources\\embedded_system_2024\\day06\\sort\\file02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|solutionrelative:file02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|C:\\Sources\\embedded_system_2024\\day06\\sort\\file01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|C:\\Sources\\embedded_system_2024\\day06\\sort\\low_read.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|solutionrelative:low_read.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|C:\\Sources\\embedded_system_2024\\day06\\sort\\low_open.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|solutionrelative:low_open.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|C:\\Sources\\embedded_system_2024\\day06\\sort\\file02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|solutionrelative:file02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A98CA5FB-88C6-4A53-9DA0-0AF5E3249F3C}|sort.vcxproj|C:\\Sources\\embedded_system_2024\\day06\\sort\\sort001.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "file03.c",
               "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day06\\sort\\file03.c",
               "RelativeDocumentMoniker": "file03.c",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "low_read.c",
               "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day06\\sort\\low_read.c",
               "RelativeDocumentMoniker": "low_read.c",
@@ -59,25 +59,24 @@
               "RelativeToolTip": "low_read.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-20T06:08:21.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T06:08:21.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "low_open.c",
               "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day06\\sort\\low_open.c",
               "RelativeDocumentMoniker": "low_open.c",
               "ToolTip": "C:\\Sources\\embedded_system_2024\\day06\\sort\\low_open.c",
               "RelativeToolTip": "low_open.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-20T05:54:44.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "file02.c",
               "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day06\\sort\\file02.c",
               "RelativeDocumentMoniker": "file02.c",
@@ -90,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "file01.c",
               "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day06\\sort\\file01.c",
               "RelativeDocumentMoniker": "file01.c",
@@ -98,8 +97,7 @@
               "RelativeToolTip": "file01.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-20T04:52:18.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T04:52:18.515Z"
             },
             {
               "$type": "Document",
@@ -111,8 +109,7 @@
               "RelativeToolTip": "sort001.c",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-20T03:31:43.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T03:31:43.236Z"
             }
           ]
         }

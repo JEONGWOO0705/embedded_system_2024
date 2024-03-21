@@ -93,6 +93,7 @@ void main() {
     ```c
     #include <stdio.h>
     #include <stdlib.h>
+    // 표준 입출력
     void main() {
 	    char msg[20] = "File Test!!";
 
@@ -107,5 +108,35 @@ void main() {
 	    printf("%s", msg);
 
 	    fclose(fp);
+
+        ////////////////////
+    /// 리눅스 환경
+    #include<stdio.h>
+    #include<stdlib.h>
+    #include<fcntl.h>
+    #include<unistd.h>
+    void error_handling(char* message);
+
+    int main(void) {
+        int fd;
+        char buf[] = "Let's go !\n";
+        fd = open("data.txt", O_CREAT | O_WRONLY | O_TRUNC);
+        if (fd == -1) {
+            error_handling("open() error!");
+        }
+        printf("file descriptor : %d\n", fd);
+
+        if (write(fd, buf, sizeof(buf)) == -1) {
+            error_handling("write() error!");
+        }
+        close(fd);
+        return 0;
+    }
+
+    void error_handling(char* message) {
+        fputs(message, stderr);
+        fputc('\n', stderr);
+        exit(1);
+    }
     }
     ```
