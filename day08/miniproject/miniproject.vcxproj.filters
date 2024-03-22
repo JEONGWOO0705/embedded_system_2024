@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="project01_input">
+    <ClCompile Include="project01_inputid.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="project01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,0 +1,70 @@
+﻿  project01.c
+C:\Sources\embedded_system_2024\day08\miniproject\project01_input.h(19,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (소스 파일 'project01.c'을(를) 컴파일하는 중)
+  
+C:\Sources\embedded_system_2024\day08\miniproject\project01_input.h(20,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (소스 파일 'project01.c'을(를) 컴파일하는 중)
+  
+C:\Sources\embedded_system_2024\day08\miniproject\project01_input.h(51,21): warning C4473: 'fprintf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  (소스 파일 'project01.c'을(를) 컴파일하는 중)
+  C:\Sources\embedded_system_2024\day08\miniproject\project01_input.h(51,21):
+  자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  C:\Sources\embedded_system_2024\day08\miniproject\project01_input.h(51,21):
+  누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+  
+C:\Sources\embedded_system_2024\day08\miniproject\project01_input.h(69,21): warning C4473: 'fprintf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  (소스 파일 'project01.c'을(를) 컴파일하는 중)
+  C:\Sources\embedded_system_2024\day08\miniproject\project01_input.h(69,21):
+  자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  C:\Sources\embedded_system_2024\day08\miniproject\project01_input.h(69,21):
+  누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+  
+C:\Sources\embedded_system_2024\day08\miniproject\project01_input.h(77,60): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+  (소스 파일 'project01.c'을(를) 컴파일하는 중)
+  
+C:\Sources\embedded_system_2024\day08\miniproject\project01_input.h(87,24): warning C4047: '함수': 'dictionary **'의 간접 참조 수준이 'dictionary *'과(와) 다릅니다.
+  (소스 파일 'project01.c'을(를) 컴파일하는 중)
+  
+C:\Sources\embedded_system_2024\day08\miniproject\project01_input.h(87,24): warning C4024: 'DICTIONARY_Add': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  (소스 파일 'project01.c'을(를) 컴파일하는 중)
+  
+C:\Sources\embedded_system_2024\day08\miniproject\project01_input.h(94,12): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+  (소스 파일 'project01.c'을(를) 컴파일하는 중)
+  
+C:\Sources\embedded_system_2024\day08\miniproject\project01_input.h(111,25): error C2059: 구문 오류: ')'
+  (소스 파일 'project01.c'을(를) 컴파일하는 중)
+  
+C:\Sources\embedded_system_2024\day08\miniproject\project01_input.h(121,70): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+  (소스 파일 'project01.c'을(를) 컴파일하는 중)
+  
+C:\Sources\embedded_system_2024\day08\miniproject\project01_input.h(132,21): warning C4473: 'fprintf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  (소스 파일 'project01.c'을(를) 컴파일하는 중)
+  C:\Sources\embedded_system_2024\day08\miniproject\project01_input.h(132,21):
+  자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  C:\Sources\embedded_system_2024\day08\miniproject\project01_input.h(132,21):
+  누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+  
+C:\Sources\embedded_system_2024\day08\miniproject\project01_input.h(139,9): error C2181: if와 짝을 이루지 않는 잘못된 else문입니다.
+  (소스 파일 'project01.c'을(를) 컴파일하는 중)
+  
+C:\Sources\embedded_system_2024\day08\miniproject\project01_input.h(148,13): warning C4098: 'saveToFilePASSWORD': 'void' 함수에서 값을 반환하고 있습니다.
+  (소스 파일 'project01.c'을(를) 컴파일하는 중)
+  
+C:\Sources\embedded_system_2024\day08\miniproject\project01.c(9,6): error C2371: 'main': 재정의. 기본 형식이 다릅니다.
+  C:\Sources\embedded_system_2024\day08\miniproject\project01_input.h(94,5):
+  'main' 선언을 참조하십시오.
+  
+C:\Sources\embedded_system_2024\day08\miniproject\project01.c(9,13): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Sources\embedded_system_2024\day08\miniproject\project01.c(31,8): warning C4013: 'open'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Sources\embedded_system_2024\day08\miniproject\project01.c(36,7): warning C4013: 'read'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Sources\embedded_system_2024\day08\miniproject\project01.c(39,3): warning C4013: 'close'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Sources\embedded_system_2024\day08\miniproject\project01.c(48,36): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Sources\embedded_system_2024\day08\miniproject\project01.c(49,15): error C2065: 'message': 선언되지 않은 식별자입니다.
+C:\Sources\embedded_system_2024\day08\miniproject\project01.c(49,8): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Sources\embedded_system_2024\day08\miniproject\project01.c(49,8): warning C4024: 'fputs': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Sources\embedded_system_2024\day08\miniproject\project01_input.h(94,12): error C1075: '{': 일치하는 토큰을 찾을 수 없습니다.
+  (소스 파일 'project01.c'을(를) 컴파일하는 중)
+  
+  test.c
+C:\Sources\embedded_system_2024\day08\miniproject\test.c(5,9): error C1083: 포함 파일을 열 수 없습니다. 'unistd.h': No such file or directory
+  코드를 생성하고 있습니다...

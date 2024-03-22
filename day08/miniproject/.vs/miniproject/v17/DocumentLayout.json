@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Sources\\embedded_system_2024\\day08\\miniproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{754DABCD-F350-4E4E-9214-AEE74A224D46}|miniproject.vcxproj|C:\\Sources\\embedded_system_2024\\day08\\miniproject\\project01_input||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{754DABCD-F350-4E4E-9214-AEE74A224D46}|miniproject.vcxproj|solutionrelative:project01_input||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{754DABCD-F350-4E4E-9214-AEE74A224D46}|miniproject.vcxproj|C:\\Sources\\embedded_system_2024\\day08\\miniproject\\project01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{754DABCD-F350-4E4E-9214-AEE74A224D46}|miniproject.vcxproj|solutionrelative:project01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754DABCD-F350-4E4E-9214-AEE74A224D46}|miniproject.vcxproj|C:\\Sources\\embedded_system_2024\\day08\\miniproject\\project01_inputid.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{754DABCD-F350-4E4E-9214-AEE74A224D46}|miniproject.vcxproj|solutionrelative:project01_inputid.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "project01_input",
-              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day08\\miniproject\\project01_input",
-              "RelativeDocumentMoniker": "project01_input",
-              "ToolTip": "C:\\Sources\\embedded_system_2024\\day08\\miniproject\\project01_input",
-              "RelativeToolTip": "project01_input",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-22T00:04:52.11Z",
+              "Title": "project01.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day08\\miniproject\\project01.c",
+              "RelativeDocumentMoniker": "project01.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\day08\\miniproject\\project01.c",
+              "RelativeToolTip": "project01.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-22T02:58:30.992Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "project01_inputid.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day08\\miniproject\\project01_inputid.c",
+              "RelativeDocumentMoniker": "project01_inputid.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\day08\\miniproject\\project01_inputid.c",
+              "RelativeToolTip": "project01_inputid.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-22T01:54:25.152Z"
             }
           ]
         }
