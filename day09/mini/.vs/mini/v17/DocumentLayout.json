@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sources\\embedded_system_2024\\day09\\mini\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{970B31CC-D631-4AE5-94A8-C4FEF93A0772}|mini.vcxproj|C:\\Sources\\embedded_system_2024\\day09\\mini\\mini.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{970B31CC-D631-4AE5-94A8-C4FEF93A0772}|mini.vcxproj|solutionrelative:mini.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mini.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day09\\mini\\mini.c",
+              "RelativeDocumentMoniker": "mini.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\day09\\mini\\mini.c",
+              "RelativeToolTip": "mini.c",
+              "ViewState": "AQIAAD4BAAAAAAAAAAAswEgBAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-25T03:15:37.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

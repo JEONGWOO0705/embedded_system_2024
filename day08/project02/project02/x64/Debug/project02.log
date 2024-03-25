@@ -1,0 +1,31 @@
+﻿  project02.c
+C:\Sources\embedded_system_2024\day08\project02\project02.c(85,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(86,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(87,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(98,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(99,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(100,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(115,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(118,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(121,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(124,12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(130,12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(136,12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(185,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'BOOK *'입니다.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(185,12): warning C4313: 'printf': 서식 문자열의 '%d'이(가) BOOK *' 형식의 인수 1과(와) 충돌합니다.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(185,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'book *'입니다.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(185,12): warning C4313: 'printf': 서식 문자열의 '%d'이(가) book *' 형식의 인수 2과(와) 충돌합니다.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(273,37): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[100]'과(와) 다릅니다.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(273,37): warning C4024: 'selectFreeNode': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(284,27): warning C4013: 'searchData'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(289,17): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(229,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(244,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(248,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(255,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(261,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(272,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(282,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day08\project02\project02.c(284,19): warning C4047: '초기화 중': 'book *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+project02.obj : error LNK2019: searchDatamain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Sources\embedded_system_2024\day08\project02\x64\Debug\project02.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

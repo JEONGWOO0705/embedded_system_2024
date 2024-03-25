@@ -24,4 +24,8 @@ C:\Sources\embedded_system_2024\day08\miniproject02\project002.c(293,44): warnin
 C:\Sources\embedded_system_2024\day08\miniproject02\project002.c(293,44): warning C4024: 'ShowPublisherNode': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
 C:\Sources\embedded_system_2024\day08\miniproject02\project002.c(298,41): warning C4047: '함수': 'const char'의 간접 참조 수준이 'char [100]'과(와) 다릅니다.
 C:\Sources\embedded_system_2024\day08\miniproject02\project002.c(298,41): warning C4024: 'ShowAuthorNode': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Sources\embedded_system_2024\day08\miniproject02\project002.c(307,37): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[100]'과(와) 다릅니다.
+C:\Sources\embedded_system_2024\day08\miniproject02\project002.c(307,37): warning C4024: 'selectFreeNode': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Sources\embedded_system_2024\day08\miniproject02\project002.c(317,47): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[100]'과(와) 다릅니다.
+C:\Sources\embedded_system_2024\day08\miniproject02\project002.c(317,47): warning C4024: 'searchData': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
 C:\Sources\embedded_system_2024\day08\miniproject02\project002.c(245,12): error C1075: '{': 일치하는 토큰을 찾을 수 없습니다.

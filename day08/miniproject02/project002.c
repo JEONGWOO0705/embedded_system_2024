@@ -304,7 +304,7 @@ int main() {
         case 3:
             printf("삭제할 책의 제목을 입력하세요. \n");
             scanf("%s", &bname);
-            selectFreeNode(newhead, bname);
+            selectFreeNode(newhead, &bname);
 
         case 4:
             printf("전체 도서를 출력하겠습니다.\n");
@@ -314,7 +314,7 @@ int main() {
             printf("대여할 책의 제목을 입력해 주세요.\n");
             scanf("%s", &bname);
 
-            book* _book = searchData(newhead, bname);
+            book* _book = searchData(newhead, &bname);
             _book->check = TRUE;
 
         case 0: break;
