@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
+#define _CRT_SECUR_NO_WARNINGS
 #define BUF_SIZE 100
 #define TRUE 1
 #define FALSE 0
@@ -33,7 +34,7 @@ headNode* createHeadNode(void) {
     return  newHead;
 }
 
-void ShowNode(headNode* pnode) {
+void ShowAllNode(headNode* pnode) {
     book* curr = pnode->head;
     int i = 0;
     while (curr != NULL) {
@@ -56,6 +57,85 @@ void ShowNode(headNode* pnode) {
         curr = curr->next;
     }
 }
+
+void ShowNameNode(headNode* pnode, const char _name) {
+    book* curr = pnode->head;
+    int i = 0;
+    while (curr != NULL) {
+        i += 1;
+        if (curr->name == _name) {
+            printf("---------------------------------------------\n");
+            printf("책 제목 : %s\n", curr[i].name);
+            printf("출판사 : % s\n", curr[i].publisher);
+            printf("저자 : % s\n", curr[i].author);
+            printf("책 ID : %d\n", curr[i].Id);
+            printf("책 가격 : %d\n", curr[i].price);
+            printf("책 페이지 : %d\n", curr[i].page);
+            if (curr[i].check == TRUE) {
+                printf("대여 상태 : 대여중\n");
+            }
+            else if (curr[i].check == FALSE) {
+                printf("대여 상태 : 대여 가능\n");
+
+            }
+            printf("---------------------------------------------\n");
+            break;
+        }   
+        curr = curr->next;
+    }
+}
+void ShowPublisherNode(headNode* pnode, const char _publisher) {
+    book* curr = pnode->head;
+    int i = 0;
+    while (curr != NULL) {
+        i += 1;
+        if (curr->publisher == _publisher) {
+            printf("---------------------------------------------\n");
+            printf("책 제목 : %s\n", curr[i].name);
+            printf("출판사 : % s\n", curr[i].publisher);
+            printf("저자 : % s\n", curr[i].author);
+            printf("책 ID : %d\n", curr[i].Id);
+            printf("책 가격 : %d\n", curr[i].price);
+            printf("책 페이지 : %d\n", curr[i].page);
+            if (curr[i].check == TRUE) {
+                printf("대여 상태 : 대여중\n");
+            }
+            else if (curr[i].check == FALSE) {
+                printf("대여 상태 : 대여 가능\n");
+
+            }
+            printf("---------------------------------------------\n");
+        }
+        curr = curr->next;
+    }
+}
+void ShowAuthorNode(headNode* pnode, const char _author) {
+    book* curr = pnode->head;
+    int i = 0;
+    while (curr != NULL) {
+        i += 1;
+        if (curr->author == _author) {
+            printf("---------------------------------------------\n");
+            printf("책 제목 : %s\n", curr[i].name);
+            printf("출판사 : % s\n", curr[i].publisher);
+            printf("저자 : % s\n", curr[i].author);
+            printf("책 ID : %d\n", curr[i].Id);
+            printf("책 가격 : %d\n", curr[i].price);
+            printf("책 페이지 : %d\n", curr[i].page);
+            if (curr[i].check == TRUE) {
+                printf("대여 상태 : 대여중\n");
+            }
+            else if (curr[i].check == FALSE) {
+                printf("대여 상태 : 대여 가능\n");
+
+            }
+            printf("---------------------------------------------\n");
+        }
+        curr = curr->next;
+    }
+}
+
+
 
 void pre_addNode(headNode* pnode, const char* name, const char* author,
     const char* publisher, int price, int page, int Id) {
@@ -113,6 +193,53 @@ void inputData() {
     scanf("%d", &bpage);
 }
 
+book* searchData(headNode* pnode, const char* _name) {
+    int count = 0;
+    book* search = malloc(sizeof(book));
+    search = pnode->head;
+    while (search->next != NULL) {
+        search = search->next;
+        count += 1;
+        if (search->name == _name) {
+            count += 1;
+            break;
+        }
+    }
+    return search;
+}
+
+void allFreeNode(headNode* pnode) {
+    book* curr = pnode->head;
+    while (curr != NULL) {
+        book* dn = curr;
+        curr = curr->next;
+        printf("데이터 삭제\n");
+        free(dn);
+    }
+    pnode->head->next = NULL;
+    printf("head -> next : %d,  head->data: %d \n", pnode->head->next, curr);
+    free(pnode);
+}
+
+void selectFreeNode(headNode* pnode, const char* _name) {
+    int count = 0;
+    book* search = malloc(sizeof(book));
+    book* pre_search = malloc(sizeof(book));
+    pre_search = pnode->head;
+    search = pnode->head;
+    while (search->next != NULL) {
+        search = search->next;
+        count += 1;
+        if (search->name== _name) {
+            pre_search->next = search->next;
+            free(search);
+            break;
+        }
+        pre_search = pre_search->next;
+    }
+
+}
+
 
 
 int main() {
@@ -148,6 +275,50 @@ int main() {
                 rearNode(newhead, bname, bauthor, bpublisher, bprice, bpage, bId);
             }
             break;
-        }
 
+        case 2:
+            printf("검색할 카테고리를 정하시오 \n");
+            printf("1. 책 제목\n");
+            printf("2. 출판사\n");
+            printf("3. 저자\n");
+            scanf("%d", &choice);
+            if (choice == 1) {
+                printf("책의 제목을 입력해 주세요 \n");
+                scanf("%s", &bname);
+                ShowNameNode(newhead, bname);
+            }
+            else if (choice == 2) {
+                printf("책의 출판사를 입력해 주세요 \n");
+                scanf("%s", &bpublisher);
+                ShowPublisherNode(newhead, bpublisher);
+            }
+            else if (choice == 3) {
+                printf("책의 저자를 입력해 주세요 \n");
+                scanf("%s", &bauthor);
+                ShowAuthorNode(newhead, bauthor);
+            }
+            else {
+                printf("잘못 선택 하셨습니다 \n");
+            }
+
+        case 3:
+            printf("삭제할 책의 제목을 입력하세요. \n");
+            scanf("%s", &bname);
+            selectFreeNode(newhead, bname);
+
+        case 4:
+            printf("전체 도서를 출력하겠습니다.\n");
+            ShowAllNode(newhead);
+
+        case 5:
+            printf("대여할 책의 제목을 입력해 주세요.\n");
+            scanf("%s", &bname);
+
+            book* _book = searchData(newhead, bname);
+            _book->check = TRUE;
+
+        case 0: break;
+        default:
+            printf("잘못 입력하였습니다.\n");
+        }
     }
