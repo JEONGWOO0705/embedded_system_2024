@@ -144,9 +144,15 @@ void main() {
     }
     ```
 ## 6일차 
+- 파일 정리 실수로 day08 폴더안에 들어가 있음!!
 - 미니 프로젝트 시작!!
 - ID , PASSWORD 생성 프로그램
 - 프로그램을 통해 ID , PASSWORD가 저장되있는 txt파일을 생성
  ![ID 생성](https://raw.githubusercontent.com/JEONGWOO0705/embedded_system_2024/main/image/img004.jpg)
 
- 
+- 저장되어 있는 txt파일 정보를 불러와 입력하는 ID, PASSWORD와 일치하는지 비교!!
+- 일치 한다면 myinfo.txt에 저장되어 있는 데이터 불러오기 
+
+![로그인 성공](https://raw.githubusercontent.com/JEONGWOO0705/embedded_system_2024/main/image/img005.jpg)
+
+## 7일차 
