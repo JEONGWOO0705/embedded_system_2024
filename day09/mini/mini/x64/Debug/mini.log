@@ -22,5 +22,5 @@ C:\Sources\embedded_system_2024\day09\mini\mini.c(279,17): warning C4996: 'scanf
 C:\Sources\embedded_system_2024\day09\mini\mini.c(287,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Sources\embedded_system_2024\day09\mini\mini.c(297,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Sources\embedded_system_2024\day09\mini\mini.c(314,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Sources\embedded_system_2024\day09\mini\mini.c(331,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day09\mini\mini.c(337,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   mini.vcxproj -> C:\Sources\embedded_system_2024\day09\mini\x64\Debug\mini.exe

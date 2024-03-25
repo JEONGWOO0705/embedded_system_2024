@@ -316,12 +316,18 @@ int main() {
             book* _book = searchNameData(newhead, bname);
 
             if (_book != NULL) {
-                _book->check = TRUE;
-                printf("책이 대여 되었습니다.\n");
+                if (_book->check == FALSE) {
+                    _book->check = TRUE;
+                    printf("책이 대여 되었습니다.\n");
+                }
+                else if (_book->check == TRUE) {
+                    printf("해당 책은 이미 대여 되었습니다.\n");
+                   
+                }
                 break;
             }
+            
             else {
-                printf("검색된 책이 없습니다. \n");
                 break;
             }
             
@@ -334,12 +340,16 @@ int main() {
 
 
             if (k != NULL) {
-                k->check = FALSE;
-                printf("책이 반납 되었습니다.\n");
+                if (k->check == TRUE) {
+                    k->check = FALSE;
+                    printf("책이 반납 되었습니다.\n");
+                }
+                else if (k->check == FALSE) {
+                    printf("해당 책은 이미 반납 되었습니다.\n");
+                }
                 break;
             }
             else {
-                printf("검색된 책이 없습니다. \n");
                 break;
             }
 
