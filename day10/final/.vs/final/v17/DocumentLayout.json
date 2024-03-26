@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E9B137AE-7F28-4753-B8F9-E73206B742E0}|final.vcxproj|C:\\Sources\\embedded_system_2024\\day10\\final\\final.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E9B137AE-7F28-4753-B8F9-E73206B742E0}|final.vcxproj|solutionrelative:final.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B137AE-7F28-4753-B8F9-E73206B742E0}|final.vcxproj|C:\\Sources\\embedded_system_2024\\day10\\final\\final02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9B137AE-7F28-4753-B8F9-E73206B742E0}|final.vcxproj|solutionrelative:final02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "final02.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day10\\final\\final02.c",
+              "RelativeDocumentMoniker": "final02.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\day10\\final\\final02.c",
+              "RelativeToolTip": "final02.c",
+              "ViewState": "AQIAAIIBAAAAAAAAAAAowKQBAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-26T02:02:49.257Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "final.c",
               "ToolTip": "C:\\Sources\\embedded_system_2024\\day10\\final\\final.c",
               "RelativeToolTip": "final.c",
-              "ViewState": "AQIAAHEBAAAAAAAAAAAswI8BAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-25T07:02:39.591Z",
               "EditorCaption": ""

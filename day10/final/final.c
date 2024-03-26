@@ -1,4 +1,12 @@
-﻿#include<stdio.h>
+﻿/*
+Filr : LinkedList + file 입출력
+Created : 24-03-26
+author : 황정우
+*/
+
+
+
+#include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
 #define _CRT_SECUR_NO_WARNINGS

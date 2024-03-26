@@ -18,5 +18,8 @@
     <ClCompile Include="final.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="final02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,6 +1,7 @@
 ﻿#include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
+#include<time.h>
 #define _CRT_SECUR_NO_WARNINGS
 #define BUF_SIZE 100
 #define TRUE 1
@@ -21,6 +22,8 @@ typedef struct BOOK {
     int price;
     int page;
     int Id;
+    time_t bTime;
+    time_t rTime;
     struct BOOK* next;
 } book;
 
@@ -229,8 +232,9 @@ int main() {
 
     int numBooks = 0;
     headNode* newhead = createHeadNode();
-
-
+   
+    
+    
 
     while (1) {
         printf("***** 메뉴 *****\n");
