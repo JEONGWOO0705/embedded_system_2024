@@ -1,32 +1,32 @@
-﻿  test.c
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(85,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(86,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(87,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(98,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(99,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(100,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(115,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(118,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(121,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(124,12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(130,12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(136,12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(185,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'BOOK *'입니다.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(185,12): warning C4313: 'printf': 서식 문자열의 '%d'이(가) BOOK *' 형식의 인수 1과(와) 충돌합니다.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(185,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'book *'입니다.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(185,12): warning C4313: 'printf': 서식 문자열의 '%d'이(가) book *' 형식의 인수 2과(와) 충돌합니다.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(289,37): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[100]'과(와) 다릅니다.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(289,37): warning C4024: 'selectFreeNode': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(309,19): error C2374: '_book': 재정의. 여러 번 초기화했습니다.
-  C:\Sources\embedded_system_2024\day09\projedct02\test.c(300,19):
+﻿  linked.c
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(93,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(94,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(95,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(106,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(107,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(108,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(123,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(126,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(129,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(132,12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(138,12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(144,12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(193,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'BOOK *'입니다.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(193,12): warning C4313: 'printf': 서식 문자열의 '%d'이(가) BOOK *' 형식의 인수 1과(와) 충돌합니다.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(193,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'book *'입니다.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(193,12): warning C4313: 'printf': 서식 문자열의 '%d'이(가) book *' 형식의 인수 2과(와) 충돌합니다.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(297,37): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[100]'과(와) 다릅니다.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(297,37): warning C4024: 'selectFreeNode': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(317,19): error C2374: '_book': 재정의. 여러 번 초기화했습니다.
+  C:\Sources\embedded_system_2024\day09\projedct02\linked.c(308,19):
   '_book' 선언을 참조하십시오.
   
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(313,17): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(238,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(260,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(264,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(271,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(277,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(288,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(298,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Sources\embedded_system_2024\day09\projedct02\test.c(307,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(321,17): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(246,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(268,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(272,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(279,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(285,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(296,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(306,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded_system_2024\day09\projedct02\linked.c(315,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

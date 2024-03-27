@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{727D1741-1CC7-4B57-B76D-3734BB582D9B}|ConsoleApplication1.vcxproj|C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\id.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{727D1741-1CC7-4B57-B76D-3734BB582D9B}|ConsoleApplication1.vcxproj|solutionrelative:id.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727D1741-1CC7-4B57-B76D-3734BB582D9B}|ConsoleApplication1.vcxproj|C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\id.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{727D1741-1CC7-4B57-B76D-3734BB582D9B}|ConsoleApplication1.vcxproj|solutionrelative:id.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727D1741-1CC7-4B57-B76D-3734BB582D9B}|ConsoleApplication1.vcxproj|C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\LinkedListMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{727D1741-1CC7-4B57-B76D-3734BB582D9B}|ConsoleApplication1.vcxproj|solutionrelative:LinkedListMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727D1741-1CC7-4B57-B76D-3734BB582D9B}|ConsoleApplication1.vcxproj|C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{727D1741-1CC7-4B57-B76D-3734BB582D9B}|ConsoleApplication1.vcxproj|solutionrelative:list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727D1741-1CC7-4B57-B76D-3734BB582D9B}|ConsoleApplication1.vcxproj|C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\id.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{727D1741-1CC7-4B57-B76D-3734BB582D9B}|ConsoleApplication1.vcxproj|solutionrelative:id.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727D1741-1CC7-4B57-B76D-3734BB582D9B}|ConsoleApplication1.vcxproj|C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{727D1741-1CC7-4B57-B76D-3734BB582D9B}|ConsoleApplication1.vcxproj|solutionrelative:list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\final.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:final.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727D1741-1CC7-4B57-B76D-3734BB582D9B}|ConsoleApplication1.vcxproj|C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\password.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{727D1741-1CC7-4B57-B76D-3734BB582D9B}|ConsoleApplication1.vcxproj|solutionrelative:password.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "list.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\list.c",
+              "RelativeDocumentMoniker": "list.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\list.c",
+              "RelativeToolTip": "list.c",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAAAM0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-27T01:07:14.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "final.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\final.c",
+              "RelativeDocumentMoniker": "final.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\final.c",
+              "RelativeToolTip": "final.c",
+              "ViewState": "AQIAAKoBAAAAAAAAAAAAALABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-27T01:07:06.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "password.txt",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\password.txt",
+              "RelativeDocumentMoniker": "password.txt",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\password.txt",
+              "RelativeToolTip": "password.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-27T00:12:01.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "id.txt",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\id.txt",
+              "RelativeDocumentMoniker": "id.txt",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\id.txt",
+              "RelativeToolTip": "id.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-27T00:11:45.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "list.h",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\list.h",
+              "RelativeDocumentMoniker": "list.h",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\list.h",
+              "RelativeToolTip": "list.h",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswDEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-27T00:02:15.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "id.h",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\id.h",
+              "RelativeDocumentMoniker": "id.h",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\id.h",
+              "RelativeToolTip": "id.h",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswCsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-27T00:02:13.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "id.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\id.c",
+              "RelativeDocumentMoniker": "id.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\id.c",
+              "RelativeToolTip": "id.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-27T00:01:36.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinkedListMain.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\LinkedListMain.c",
+              "RelativeDocumentMoniker": "LinkedListMain.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\assignment\\practice\\ConsoleApplication1\\LinkedListMain.c",
+              "RelativeToolTip": "LinkedListMain.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-27T00:00:42.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿  LinkedListMain.c
+C:\Sources\embedded_system_2024\assignment\last\final\list.h(11,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+  list.c
+  (소스 파일 'LinkedListMain.c'을(를) 컴파일하는 중)
+  C:\Sources\embedded_system_2024\assignment\last\final\list.h(11,1):
+  이전에 명령줄에서 선언된 '_CRT_SECURE_NO_WARNINGS'
+  
+C:\Sources\embedded_system_2024\assignment\last\final\LinkedListMain.c(143,17): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Sources\embedded_system_2024\assignment\last\final\list.h(11,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+  (소스 파일 'list.c'을(를) 컴파일하는 중)
+  C:\Sources\embedded_system_2024\assignment\last\final\list.h(11,1):
+  이전에 명령줄에서 선언된 '_CRT_SECURE_NO_WARNINGS'
+  
+C:\Sources\embedded_system_2024\assignment\last\final\list.c(177,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'BOOK *'입니다.
+C:\Sources\embedded_system_2024\assignment\last\final\list.c(177,12): warning C4313: 'printf': 서식 문자열의 '%d'이(가) BOOK *' 형식의 인수 1과(와) 충돌합니다.
+C:\Sources\embedded_system_2024\assignment\last\final\list.c(177,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'book *'입니다.
+C:\Sources\embedded_system_2024\assignment\last\final\list.c(177,12): warning C4313: 'printf': 서식 문자열의 '%d'이(가) book *' 형식의 인수 2과(와) 충돌합니다.
+  코드를 생성하고 있습니다...
+  final.vcxproj -> C:\Sources\embedded_system_2024\assignment\last\final\x64\Debug\final.exe

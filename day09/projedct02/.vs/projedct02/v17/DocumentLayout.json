@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Sources\\embedded_system_2024\\day09\\projedct02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE5FDE6C-7447-4FDB-963E-83F9B373D17D}|projedct02.vcxproj|C:\\Sources\\embedded_system_2024\\day09\\projedct02\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DE5FDE6C-7447-4FDB-963E-83F9B373D17D}|projedct02.vcxproj|solutionrelative:test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DE5FDE6C-7447-4FDB-963E-83F9B373D17D}|projedct02.vcxproj|C:\\Sources\\embedded_system_2024\\day09\\projedct02\\linked.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE5FDE6C-7447-4FDB-963E-83F9B373D17D}|projedct02.vcxproj|solutionrelative:linked.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "test.c",
-              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day09\\projedct02\\test.c",
-              "RelativeDocumentMoniker": "test.c",
-              "ToolTip": "C:\\Sources\\embedded_system_2024\\day09\\projedct02\\test.c",
-              "RelativeToolTip": "test.c",
-              "ViewState": "AQIAABQBAAAAAAAAAAAAACsBAAA5AAAA",
+              "Title": "linked.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\day09\\projedct02\\linked.c",
+              "RelativeDocumentMoniker": "linked.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\day09\\projedct02\\linked.c",
+              "RelativeToolTip": "linked.c",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAEgBAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-25T03:14:39.3Z",
               "EditorCaption": ""

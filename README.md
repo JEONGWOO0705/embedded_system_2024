@@ -155,4 +155,15 @@ void main() {
 
 ![로그인 성공](https://raw.githubusercontent.com/JEONGWOO0705/embedded_system_2024/main/image/img005.jpg)
 
-## 7일차 
+## 7,8,9일차 
+- 도서 관리 프로그램 만들기
+- 도서 등록, 검색, 삭제, 조회,대여 기능 구현
+
+![도서 관리 프로그램](https://raw.githubusercontent.com/JEONGWOO0705/embedded_system_2024/main/image/img006.jpg)
+
+## 10일차 
+- 미리 생성된 아이디를 통해 id, password를 입력하면 프로그램이 실행되게 구현
+- 완성된 파일을 분할하여 main.c  main.h  list.c 3가지의 파일로 분할함
+- 완성된 파일은 Project 폴더!!
+
+![완성](https://raw.githubusercontent.com/JEONGWOO0705/embedded_system_2024/main/image/img007.jpg)

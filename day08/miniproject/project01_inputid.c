@@ -1,3 +1,10 @@
+/*
+Filr : project01_inputid.c (파일 입출력 아이디 생성파트)
+Created : 24-03-26
+author : 황정우
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 

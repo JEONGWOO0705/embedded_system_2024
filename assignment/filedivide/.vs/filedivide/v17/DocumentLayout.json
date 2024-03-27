@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sources\\embedded_system_2024\\assignment\\filedivide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0602D95-ED4A-4985-96E0-B45B4D8A1A0E}|filedivide.vcxproj|C:\\Sources\\embedded_system_2024\\assignment\\filedivide\\LinkedListMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0602D95-ED4A-4985-96E0-B45B4D8A1A0E}|filedivide.vcxproj|solutionrelative:LinkedListMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0602D95-ED4A-4985-96E0-B45B4D8A1A0E}|filedivide.vcxproj|C:\\Sources\\embedded_system_2024\\assignment\\filedivide\\list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0602D95-ED4A-4985-96E0-B45B4D8A1A0E}|filedivide.vcxproj|solutionrelative:list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "list.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\assignment\\filedivide\\list.c",
+              "RelativeDocumentMoniker": "list.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\assignment\\filedivide\\list.c",
+              "RelativeToolTip": "list.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-26T03:52:05.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinkedListMain.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\assignment\\filedivide\\LinkedListMain.c",
+              "RelativeDocumentMoniker": "LinkedListMain.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\assignment\\filedivide\\LinkedListMain.c",
+              "RelativeToolTip": "LinkedListMain.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-26T02:45:16.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

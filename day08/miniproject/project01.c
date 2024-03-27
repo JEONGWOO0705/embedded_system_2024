@@ -1,3 +1,9 @@
+/*
+Filr : project01.c (파일 입출력)
+Created : 24-03-26
+author : 황정우
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>

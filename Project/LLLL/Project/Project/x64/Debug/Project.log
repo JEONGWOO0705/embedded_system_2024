@@ -1,0 +1,8 @@
+﻿  function.c
+C:\Sources\embedded_system_2024\assignment\LLLL\Project\function.c(240,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'BOOK *'입니다.
+C:\Sources\embedded_system_2024\assignment\LLLL\Project\function.c(240,12): warning C4313: 'printf': 서식 문자열의 '%d'이(가) BOOK *' 형식의 인수 1과(와) 충돌합니다.
+C:\Sources\embedded_system_2024\assignment\LLLL\Project\function.c(240,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'book *'입니다.
+C:\Sources\embedded_system_2024\assignment\LLLL\Project\function.c(240,12): warning C4313: 'printf': 서식 문자열의 '%d'이(가) book *' 형식의 인수 2과(와) 충돌합니다.
+  main.c
+  코드를 생성하고 있습니다...
+  Project.vcxproj -> C:\Sources\embedded_system_2024\assignment\LLLL\Project\x64\Debug\Project.exe
