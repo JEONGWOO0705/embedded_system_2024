@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Sources\\embedded_system_2024\\assignment\\LLLL\\Project\\",
+  "WorkspaceRootPath": "C:\\Sources\\embedded_system_2024\\Project\\LLLL\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF34FCFD-B213-4375-9D54-B9DBF4A6B346}|Project.vcxproj|C:\\Sources\\embedded_system_2024\\assignment\\LLLL\\Project\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AF34FCFD-B213-4375-9D54-B9DBF4A6B346}|Project.vcxproj|C:\\Sources\\embedded_system_2024\\Project\\LLLL\\Project\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AF34FCFD-B213-4375-9D54-B9DBF4A6B346}|Project.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF34FCFD-B213-4375-9D54-B9DBF4A6B346}|Project.vcxproj|C:\\Sources\\embedded_system_2024\\assignment\\LLLL\\Project\\function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AF34FCFD-B213-4375-9D54-B9DBF4A6B346}|Project.vcxproj|C:\\Sources\\embedded_system_2024\\Project\\LLLL\\Project\\function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AF34FCFD-B213-4375-9D54-B9DBF4A6B346}|Project.vcxproj|solutionrelative:function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF34FCFD-B213-4375-9D54-B9DBF4A6B346}|Project.vcxproj|C:\\Sources\\embedded_system_2024\\assignment\\LLLL\\Project\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AF34FCFD-B213-4375-9D54-B9DBF4A6B346}|Project.vcxproj|C:\\Sources\\embedded_system_2024\\Project\\LLLL\\Project\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AF34FCFD-B213-4375-9D54-B9DBF4A6B346}|Project.vcxproj|solutionrelative:main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF34FCFD-B213-4375-9D54-B9DBF4A6B346}|Project.vcxproj|C:\\Sources\\embedded_system_2024\\assignment\\LLLL\\Project\\id.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{AF34FCFD-B213-4375-9D54-B9DBF4A6B346}|Project.vcxproj|C:\\Sources\\embedded_system_2024\\Project\\LLLL\\Project\\id.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{AF34FCFD-B213-4375-9D54-B9DBF4A6B346}|Project.vcxproj|solutionrelative:id.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "id.txt",
-              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\assignment\\LLLL\\Project\\id.txt",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\Project\\LLLL\\Project\\id.txt",
               "RelativeDocumentMoniker": "id.txt",
-              "ToolTip": "C:\\Sources\\embedded_system_2024\\assignment\\LLLL\\Project\\id.txt",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\Project\\LLLL\\Project\\id.txt",
               "RelativeToolTip": "id.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -44,35 +44,33 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "function.c",
-              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\assignment\\LLLL\\Project\\function.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\Project\\LLLL\\Project\\function.c",
               "RelativeDocumentMoniker": "function.c",
-              "ToolTip": "C:\\Sources\\embedded_system_2024\\assignment\\LLLL\\Project\\function.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\Project\\LLLL\\Project\\function.c",
               "RelativeToolTip": "function.c",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-27T01:06:46.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T01:06:46.217Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "main.h",
-              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\assignment\\LLLL\\Project\\main.h",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\Project\\LLLL\\Project\\main.h",
               "RelativeDocumentMoniker": "main.h",
-              "ToolTip": "C:\\Sources\\embedded_system_2024\\assignment\\LLLL\\Project\\main.h",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\Project\\LLLL\\Project\\main.h",
               "RelativeToolTip": "main.h",
               "ViewState": "AQIAAB0AAAAAAAAAAAAswCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-27T01:06:38.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T01:06:38.229Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\assignment\\LLLL\\Project\\main.c",
+              "DocumentMoniker": "C:\\Sources\\embedded_system_2024\\Project\\LLLL\\Project\\main.c",
               "RelativeDocumentMoniker": "main.c",
-              "ToolTip": "C:\\Sources\\embedded_system_2024\\assignment\\LLLL\\Project\\main.c",
+              "ToolTip": "C:\\Sources\\embedded_system_2024\\Project\\LLLL\\Project\\main.c",
               "RelativeToolTip": "main.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
